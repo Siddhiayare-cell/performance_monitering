@@ -1,0 +1,5 @@
+{
+  "name": " Performance Monitoring Tool",
+  "description": "A web application to monitor and display simulated system performance metrics (CPU, Memory, Disk, Network) in real-time and generate analytical reports using AI.",
+  "requestFramePermissions": []
+}
